@@ -1,0 +1,9 @@
+AI Usage Justification - CSE 489 Lab Exam (Smart Geo-Tagged Landmarks)
+Student ID: 24341248
+
+Tool used: Claude
+
+What I asked for:
+- Help scaffolding a Flutter project structure for the assignment
+- Reviewed and understood the assignment.
+- Any bugs found.
